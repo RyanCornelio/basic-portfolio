@@ -24,6 +24,10 @@ html {
   margin: 20px 0px;
 }
 
+p{
+  font-size: medium;
+  font-family: century;
+}
 .navbar ul li {
   font-family: century;
   font-size: 1.1rem;
@@ -107,6 +111,8 @@ html {
   box-sizing: border-box;
   padding: 20px;
   margin-bottom: 50px;
+  background-color: black;
+  color: white;
 }
 
 #pic {
